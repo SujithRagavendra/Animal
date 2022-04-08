@@ -1,0 +1,26 @@
+.justifyy{
+background-color: darkslategray;
+color: greenyellow;
+margin-left: 40px;
+margin-right: 40px;
+
+}
+.punnishher{
+    background-color: rgb(255, 255, 255);
+    height: 80%;
+    font-family: 'Beau Rivage', cursive;
+}
+.name{
+background-color: forestgreen;
+color: lightskyblue;
+text-align: center;
+bottom: 0;
+position: fixed;
+width: 100%;
+font-family: 'Beau Rivage', cursive;
+}
+body{
+background-color: black;
+
+
+}
